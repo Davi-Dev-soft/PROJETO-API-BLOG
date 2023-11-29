@@ -7,7 +7,7 @@ from datetime import datetime, timedelta  # ESSE IMPORTS E PARA USAR TEMPO
 from functools import wraps
 # Rota padrão - GET https://localhost:5000
 
-
+#BOA SORTE
 # CRIANDO O TOKEN OBRIGATORIO E A MANEIRA DE COLOCAR ELE PARA ACESSAR NOSSA API
 def token_obrigatorio(f):
     @wraps(f)

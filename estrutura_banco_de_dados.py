@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-
+# VAMOS LA
 # Criar um API flask
 app = Flask(__name__)
 # Criar um instância de SQLAlchemy
